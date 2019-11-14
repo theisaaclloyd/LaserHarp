@@ -1,6 +1,6 @@
 # LaserHarp
 
- 1) Settings:
+ Settings:
  CHAN - Master channel that all midi notes will be sent on
  first/second inequality - the inequality that the if statements use for the threshold.
  first_inequality is the one used to turh the note on => IF val first_inequality threshold => if the value of the note is __ than the thresh, turn on the note
